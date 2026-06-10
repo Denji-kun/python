@@ -1,4 +1,4 @@
-#print("hello world") --- printing hello world.
+print("hello world") #printing hello world.
 #how are you are u fine?
 # i'm fine -------------- single line comments.
 
@@ -11,17 +11,19 @@ comment using 3 double qoutes"""
 
 #Variables
  
-#a = 26
-#b = 10
+a = 26
+b = 10
+print (a)
+print (b)
+#1a = 10 #can't start variable using numbers allowed in between or last.
+#a b= 12 # can't gice space in between variables.
+#a-b= 15 # can't use spcial characters xcept underscore in betwn.
+ab1= 14 
+print (ab1)
 
-#  a = 15 --- no space allowed anywhere in variables other then after variables name 
-# 1a= 14 ---- cant start variable using numbers allowed in between or last
-"""ab1= 14 
-print (ab1)"""
 
-
-""" nice = 15 ----- cant use special characters other than _
-print(okay-fine)""" 
+nice = 15 # cant use special characters other than _
+print(nice)
 
 #camel case 
 #camelCase = 13 ---- first small then capital for understanding
