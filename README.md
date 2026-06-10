@@ -6,3 +6,4 @@ My personal workspace tracking my journey learning Python from scratch.
 
 ### 🚀 Milestone Tracker
 - [x] Baic Comments & Variables
+- [x] Data Types
